@@ -23,7 +23,9 @@ const DetailCard = props => {
                 <MiniData type={'Gender'} data={gender} imgIcon={genderIcon} />
             </div>
 
-            <img src={gender === 'Male' ? male : female} alt=""/>
+            <div>
+                <img src={gender === 'Male' ? male : female} alt=""/>
+            </div>
         </div>
     );
 };

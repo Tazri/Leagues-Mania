@@ -10,10 +10,22 @@
     border-radius: 10px ;
 }
 
+.detail-card h1{
+    font-size: 25px;
+}
 
+.detail-card > div{
+    width: 50%;
+}
 
-.detail-card div+img{
-    width: 60%;
+.detail-card > div + div{
+    width: 48%;
+    display: flex;
+    align-items: center;
+}
+
+.detail-card > div + div > img{
+    width: 100%;
 }
 
 @media (max-width: 750px){
@@ -21,7 +33,11 @@
         flex-direction: column;
     }
 
-    .detail-card div+img{
+    .detail-card > div{
+        width: 100%;
+    }
+
+    .detail-card > div + div{
         width: 100%;
     }
 }
