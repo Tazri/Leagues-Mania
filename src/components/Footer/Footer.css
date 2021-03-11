@@ -1,0 +1,22 @@
+footer{
+    display: flex;
+    justify-content: center;
+    color: white;
+    margin: 40px 0px 10px 0px;
+    min-height: 50px;
+    height: 100px;
+}
+
+footer a{
+    display: inline-block;
+    width: 90px;
+}
+
+footer img{
+    height: 60%;
+}
+
+footer a:focus,footer a:active,footer a::-moz-focus-inner,footer a::-moz-focus-outer{
+    outline: none;
+    border: none;
+}

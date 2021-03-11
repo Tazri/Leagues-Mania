@@ -1,0 +1,19 @@
+.mini-data{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    margin: 0px 0px;
+}
+
+.mini-data h3{
+    font-size: 20px;
+}
+
+.img-icon{
+    height: 20px;
+    margin-right: 5px;
+}
+
+.data-icon{
+    height: 100%;
+}

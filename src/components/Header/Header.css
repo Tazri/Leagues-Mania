@@ -1,0 +1,23 @@
+header{
+    /* background-image: url('./../../img/photo/banner.webp'); */
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 40vh;
+    padding: 10px 0px;
+    position: relative;
+}
+
+header h1,header img{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    color: rgb(253, 227, 192);
+    text-align: center;
+}
+
+header img{
+    height: 80%;
+}

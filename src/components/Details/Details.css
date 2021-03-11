@@ -1,0 +1,15 @@
+
+.details .container{
+    margin: 0px auto;
+    width: 95%;
+}
+
+.details .container p{
+    color: aliceblue;
+}
+
+@media (min-width: 1300px){
+    .details .container{
+        width: 80%;
+    }
+}
