@@ -1,9 +1,9 @@
 ### It Copied From Assigenment 8 to Programming hero course
 ---
 # Leagues Mania
-## Site:-> [https://604a70476e6d2f22e53ad4b0--league-mania.netlify.app/](https://604a70476e6d2f22e53ad4b0--league-mania.netlify.app/)
+## Site:-> [https://league-mania.netlify.app/](https://league-mania.netlify.app/)
 
-[Leagues Mania](https://604a70476e6d2f22e53ad4b0--league-mania.netlify.app/)
+[Leagues Mania](https://league-mania.netlify.app/)
 
 ---
 # Leagues Mania
